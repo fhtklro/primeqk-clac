@@ -1,4 +1,8 @@
 * PUBLIC */
+html {
+    touch-action: manipulation;
+}
+
 body {
     height: 100vh;
     overflow: hidden;
@@ -6,10 +10,6 @@ body {
 
 #brankArea {
     height: 5vh
-}
-
-#headerArea {
-    height: 5vh;
 }
 
 #numberArea {
@@ -21,11 +21,11 @@ body {
 }
 
 #logArea {
-    height: 25vh;
+    height: 35vh;
 }
 
 #inputArea {
-    height: 20vh;
+    height: 25vh;
 
     .buttonNumber {
         font-size: 100%;
