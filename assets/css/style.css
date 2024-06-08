@@ -1,0 +1,38 @@
+* PUBLIC */
+body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+#headerArea {
+    height: 5vh;
+}
+
+#numberArea {
+    height: 10vh;
+}
+
+#judgeArea {
+    height: 10vh;
+}
+
+#logArea {
+    height: 30vh;
+}
+
+#inputArea {
+    height: 40vh;
+
+    .buttonNumber {
+        font-size: 200%;
+    }
+
+    #inputLeftArea {
+        width: 60vw;
+    }
+
+    #inputRightArea {
+        width: 40vw;
+    }
+
+}
