@@ -4,6 +4,10 @@ body {
     overflow: hidden;
 }
 
+#brankArea {
+    height: 5vh
+}
+
 #headerArea {
     height: 5vh;
 }
@@ -17,11 +21,11 @@ body {
 }
 
 #logArea {
-    height: 30vh;
+    height: 20vh;
 }
 
 #inputArea {
-    height: 40vh;
+    height: 30vh;
 
     .buttonNumber {
         font-size: 200%;
