@@ -21,11 +21,11 @@ body {
 }
 
 #logArea {
-    height: 25vh;
+    height: 30vh;
 }
 
 #inputArea {
-    height: 25vh;
+    height: 30vh;
 
     .buttonNumber {
         font-size: 100%;
