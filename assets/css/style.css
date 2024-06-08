@@ -21,22 +21,22 @@ body {
 }
 
 #logArea {
-    height: 20vh;
+    height: 25vh;
 }
 
 #inputArea {
-    height: 30vh;
+    height: 20vh;
 
     .buttonNumber {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     #inputLeftArea {
-        width: 60vw;
+        width: 65vw;
     }
 
     #inputRightArea {
-        width: 40vw;
+        width: 35vw;
     }
 
 }
