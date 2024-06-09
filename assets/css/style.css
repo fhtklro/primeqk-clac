@@ -14,6 +14,11 @@ body {
 
 #numberArea {
     height: 10vh;
+
+    #textInputNumber {
+        text-align: center;
+        font-size: 300%;
+    }
 }
 
 #judgeArea {
